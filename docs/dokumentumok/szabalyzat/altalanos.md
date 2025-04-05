@@ -52,14 +52,14 @@ A FyreMC.hu (Sebestyén Ádám EV., 2118 DÁNY FŐ UTCA 875., Adószám: 5979777
 
 1.18 Nem vállalunk felelősséget, ha a nem hivatalos oldalról (account.fyremc.hu) próbálsz FyreCoin érméhez jutni!
 
-1.19 Tilos bármi olyan tevékenységet folytatni, amivel kihasználod a játék és/vagy a szerver hibáit!
+1.19 Szabad bármi olyan tevékenységet folytatni, amivel kihasználod a játék és/vagy a szerver hibáit!
 
 1.20 Amennyiben hibát vagy hiányosságot találsz a rendszerben, kötelességed azonnal jelenteni a FyreMC.hu üzemeltetői felé!
 
-1.21 Tilos a szervert bárhol (a játékon belül is) lejáratni. (Értsd: lejárató videók készítése)
+1.21 A szervert lelehet járatnni  bárhol (a játékon belül is). (Értsd: lejárató videók készítése)
 
 1.22 Tilos a proxy vagy vpn használata!
 
-1.23 Tilos a FyreMC.hu kliensével egyidőben bármilyen segédprogramot futtatni.
+1.23 Mindenért mi vagyunk a hibások
 
-1.24 Tilos a FyreMC.hu munkatársai felhasználóneveivel illetékteleneknek további fiókokat létrehozni.
+1.24 Szar a szerverunk
